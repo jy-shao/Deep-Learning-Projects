@@ -12,7 +12,12 @@ Training and testing data sets for this project has been provided on [kaggle web
 
 ## Environment
 
-The script of this work was implemented with Environment Python 2.7, Theano 0.8.2 and Keras 1.1.0\. It was run on AWS EC2.
+The script of this work was implemented with:
+
+- Python 2.7
+- Theano 0.8.2
+- Keras 1.1.0
+- Model was trained on AWS EC2.
 
 ## Scripts
 
