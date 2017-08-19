@@ -28,7 +28,11 @@ There are 3 notebooks in this work. They are:<br>
 
 - _02-model-basic-linear-CNN.ipynb_: This notebook is to start with neural nets and simple convolutional network, and set up baseline for this work.In addition, the influence of two kinds of decay learning rate were also tested in this notebook.
 
-- _03-CNN-Bn-Aug-Pseudo.ipynb_: This notebook uses a CNN with deeper and wider strucrture. It also further refines the results by using more advanced techniques such as Batch-normalizaiton, data augmentation, and Pseudo labeling.
+- _03-CNN-Bn-Aug-Pseudo.ipynb_: This notebook uses a CNN with deeper and wider strucrture. It also further refines the results by using more advanced techniques such as:
+
+  - Batch-normalizaiton
+  - data augmentation
+  - Pseudo labeling (semi-supervised learning).
 
 ## Reference
 
