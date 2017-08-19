@@ -1,3 +1,3 @@
 # Machine-Learning-Projects
 
-Folder for hands-on projects.
+Let's code and have fun!
